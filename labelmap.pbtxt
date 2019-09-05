@@ -1,29 +1,37 @@
 item {
   id: 1
-  name: 'nine'
+  name: 'technology'
 }
 
 item {
   id: 2
-  name: 'ten'
+  name: 'rest_drink'
 }
 
 item {
   id: 3
-  name: 'jack'
+  name: 'food_beverage'
 }
 
 item {
   id: 4
-  name: 'queen'
+  name: 'health_pcare'
 }
 
 item {
   id: 5
-  name: 'king'
+  name: 'other'
 }
 
 item {
   id: 6
-  name: 'ace'
+  name: 'fashion'
+}
+item {
+  id: 7
+  name: 'gas'
+}
+item {
+  id: 8
+  name: 'finance_investing'
 }

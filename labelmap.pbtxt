@@ -1,37 +1,37 @@
 item {
   id: 1
-  name: 'technology'
+  name: "technology"
 }
 
 item {
   id: 2
-  name: 'rest_drink'
+  name: "rest_drink"
 }
 
 item {
   id: 3
-  name: 'food_beverage'
+  name: "food_beverage"
 }
 
 item {
   id: 4
-  name: 'health_pcare'
+  name: "health_pcare"
 }
 
 item {
   id: 5
-  name: 'other'
+  name: "other"
 }
 
 item {
   id: 6
-  name: 'fashion'
+  name: "fashion"
 }
 item {
   id: 7
-  name: 'gas'
+  name: "gas"
 }
 item {
   id: 8
-  name: 'finance_investing'
+  name: "finance_investing"
 }
